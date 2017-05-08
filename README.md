@@ -35,5 +35,5 @@ ex. feats = load_dynfeat([1 4])
 4) Training classifier. ex:
 result=runntimes(feats, lmutag,10,1,0)
 
-Note: Do not forget to change your libsvm path in runIndependent_dynF.m
+Note: Do not forget to change your libsvm path into runIndependent_dynF.m file.
 
