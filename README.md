@@ -5,9 +5,10 @@ Dynamics Based Features for Graph Classification. For further information, pleas
 
 This is a feature based method for creating graph feature vectors for classification purposes. More details can be found in the [website](http://sites.uclouvain.be/big-data/Downloads/Dynfeats).
 
-## USAGE:
 Scripts for svm are available in Matlab. The Random Forest version is in Python.
 
+
+## USAGE:
 
 1. Loading dataset. ex:
 
