@@ -5,7 +5,7 @@ Dynamics Based Features for Graph Classification. For further information, pleas
 
 This is a feature based method for creating feature vector of graphs for classification purposes. More details can be found in the [website](http://sites.uclouvain.be/big-data/Downloads/Dynfeats).
 
-USAGE:
+## USAGE:
 
 1. Loading dataset. ex:
 
