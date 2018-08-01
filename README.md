@@ -1,4 +1,4 @@
-# Dynfeats
+# Multiscale Assortativities for Graph Classification
 
 This repository provides sources of the method proposed in the paper:
 Dynamics Based Features for Graph Classification. For further information, please check the scripts header.
